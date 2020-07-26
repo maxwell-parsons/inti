@@ -1,0 +1,9 @@
+name: inti
+channels:
+- defaults
+- conda-forge
+dependencies:
+- scikit-image
+- matplotlib
+- numpy
+- python=3.7
